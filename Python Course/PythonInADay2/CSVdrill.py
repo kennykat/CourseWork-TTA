@@ -1,10 +1,11 @@
-import os, csv
 # import os
-# the path to the script
+import os, csv
 
+# the path to the script
 currentPath = os.path.dirname(os.path.abspath(__file__))
 print currentPath
 
+# make the spreadsheet path
 outputCsv = currentPath + '/spreadsheet.csv'
 print outputCsv
 
