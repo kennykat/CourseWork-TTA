@@ -5,3 +5,5 @@ from bs4 import BeautifulSoup
 webpage = urllib2.urlopen("http://inadaybooks.com/justiceleague")
 
 print webpage
+
+print BeautifulSoup(webpage)
