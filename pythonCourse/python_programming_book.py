@@ -10,7 +10,7 @@ variable_name2 = variable_name
 ## 3. List
 ## 4. Tuple
 
-## T U P L E S  -- Tuple is immutable it's value cannot be changed.
+# T U P L E S  -- Tuple is immutable it's value cannot be changed.
 
 ## remember tuples start counting from value 0 and stops before the value you told it to.
 # tup1 = ['John','M','27']
@@ -22,7 +22,7 @@ variable_name2 = variable_name
 # myTuple1 = ('Richard','27','Male','Insurance and Banking')
 ## print it's value
 # print myTuple1
-## delete the tuple
+# delete the tuple
 # del myTuple1
 ## tuple is non existent now that 'del' has occured
 # print myTuple1
