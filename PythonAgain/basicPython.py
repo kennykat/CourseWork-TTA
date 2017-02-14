@@ -47,8 +47,35 @@ if x or y == 6:
 if not x == 10:
     print "x does not equal 10"
 
-print "\n8 & 9. while and for loops"
+print "\n8. while loops"
 
-while (x < 4):
+while (x < 18):
     x = x + 1
     print x
+
+print "\n9. for loops"
+
+for i in range(9):
+    y = y + 1
+    print y
+
+print "\n10. lists with for loops"
+
+lyrics = ["this", "is", "how", "we", "do", "it"]
+for l in lyrics:
+    print l
+
+print "\n11. tuples with for loops"
+
+myTuple = ("tuple", "for loops", 8.56,)
+for t in myTuple:
+    print t
+
+print "\n12. function with string variable"
+
+
+def practiceFunction(x,y):
+    addition = x + y
+    return addition
+
+print practiceFunction(3,5)
