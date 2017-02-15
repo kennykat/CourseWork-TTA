@@ -71,11 +71,9 @@ myTuple = ("tuple", "for loops", 8.56,)
 for t in myTuple:
     print t
 
-print "\n12. function with string variable"
+print "\n12 & 13. defining and calling function with string variable"
 
+def function():
+    print "this is a string variable in a function"
 
-def practiceFunction(x,y):
-    addition = x + y
-    return addition
-
-print practiceFunction(3,5)
+function()
