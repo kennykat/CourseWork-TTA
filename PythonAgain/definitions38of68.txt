@@ -1,0 +1,36 @@
+Argument - A value passed to a function or method when calling the function.
+
+Dictionary - A collection of immutable data types that are enclosed in curly braces. The keys and their values are separated by colons.
+i.e: {'key' : 'value',
+'X' : 14}
+
+Elif: An elif statement is used if an 'if' statement is false.
+
+Float: A float is an integer with a decimal.
+
+For Loop: A for loop allows for a certain piece of code to be repeated until a certain parameter is met.
+
+Function: A function is a block of code that can used more than once if called.
+
+Integer: A whole number.
+
+List: A mutable collection of data types in enclosed in square brackets.
+i.e: [1, 2, 3]
+
+Method: A method is a function inside a class that takes a class instance as its first parameter.
+
+Module: A module is a file consisting of Python code which you can import and use its methods.
+
+Parameter: A parameter exists in a function or method and specifies arguments that the function can accept.
+
+Script: A script is a reusable python file.
+
+Statement: The smallest piece of executable code.
+
+String: A string is a data type with parenthesis or single quote marks around it.
+i.e: "this is a string." 'this is also a string.'
+
+Key-value pair: A key-value pair is defined by the colon separating the key and the value. They exist inside dictionaries.
+i.e. key : value
+
+While Loop: A while loop allows for a a certain bit of code to reiterate while a certain parameter is true.
