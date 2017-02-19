@@ -1,6 +1,6 @@
-Argument - A value passed to a function or method when calling the function.
+Argument: A value passed to a function or method when calling the function.
 
-Dictionary - A collection of immutable data types that are enclosed in curly braces. The keys and their values are separated by colons.
+Dictionary: A collection of immutable data types that are enclosed in curly braces. The keys and their values are separated by colons.
 i.e: {'key' : 'value',
 'X' : 14}
 
