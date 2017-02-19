@@ -1,0 +1,27 @@
+Code Introspection: Python provides utilities and functions that allow for classes, keywords, and functions in your code to be examined and to know what they do and what they know and what they are. This is code introspection.
+
+Comprehension List: Altering one list into another by including elements and changing them as needed.
+
+Conditional Statement: Used to achieve an action depending on if the outcome is true or false.
+
+Exception Handling: This is used when you think you have code that may produce an error, so you raise exceptions to try and catch the error.
+
+Expression: A value in a script like a number or string.
+
+Generator: A function that can return an object that behaves like an iterator.
+
+Immutable: Objects whose values are unchangeable.
+
+Nested For Loop: A for loop inside another loop; either a for or while.
+
+Nested While Loop: A while loop inside another loop; either a for or while.
+
+Operator: Operators manipulate and verify operands. i.e. + * / ==
+
+Partial Functions: Allow you to use a function with determined parameters to a function with fewer parameter and fixed values for limited function.
+
+Serialization: The process of converting data structures or object states into a format that can be stored.
+
+Sets: Contains an unordered collection of immutable and unique objects.
+
+Tuple: An immutable sequence of objects. Objects are separated by commas. Can be wrapped in parenthesis.
