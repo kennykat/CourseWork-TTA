@@ -77,3 +77,5 @@ def function():
     print "this is a string variable in a function"
 
 function()
+
+# comment
