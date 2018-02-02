@@ -16,12 +16,21 @@ namespace MyFirstWebApp
 
         protected void okayButton_Click(object sender, EventArgs e)
         {
+            //string firstName = firstNameTextBox.Text;
+
+            //string firstName;
+            //firstName = "Kendra";
+            //resultLabel.Text = firstName;
+
             string firstName = firstNameTextBox.Text;
+
+            /*
             string lastName = lastNameTextBox.Text;
 
             string result = "Hello " + firstName + " " + lastName;
 
             resultLabel.Text = result;
+            */
 
 
 
