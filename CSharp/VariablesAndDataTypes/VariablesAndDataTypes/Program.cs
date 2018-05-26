@@ -19,7 +19,7 @@ namespace VariablesAndDataTypes
             ////same variable in program later on
 
             //Console.WriteLine("What is your favorite number?");
-            //string favoriteNumber = Console.ReadLine();
+            //string favoriteNumber = Console.ReadLine(); //ReadLine only takes strings
             //int favNum = Convert.ToInt32(favoriteNumber);
             //int total = favNum + 5;
             //Console.WriteLine("Your favorite number plus 5 is: " + total);
